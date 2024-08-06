@@ -1,6 +1,6 @@
 ### 👋 Hi There
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)  ![](https://komarev.com/ghpvc/?username=careywyr)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+CareyWYR%2C;U+can+also+call+me+leafw)](https://git.io/typing-svg)
 
@@ -18,5 +18,3 @@ Hi guys, I'm **CareyWYR**. I am a Java developer from Hangzhou, China. I'm curre
 
 ![careywyr's Github stats](https://github-readme-stats.vercel.app/api?username=careywyr&show_icons=true)
 
----
-⭐️ Follow me [careywyr](https://github.com/careywyr)
