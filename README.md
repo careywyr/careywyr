@@ -19,4 +19,4 @@ Hi guys, I'm **CareyWYR**. I am a Java developer from Hangzhou, China. I'm curre
 ![careywyr's Github stats](https://github-readme-stats.vercel.app/api?username=careywyr&show_icons=true)
 
 ---
-⭐️ From [careywyr](https://github.com/careywyr)
+⭐️ Follow me [careywyr](https://github.com/careywyr)
