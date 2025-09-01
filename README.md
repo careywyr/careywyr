@@ -9,7 +9,7 @@ Hi guys, I'm **CareyWYR**. I am a Java developer from Hangzhou, China. I'm curre
 ### 📫 Contact Me on Social Media
 - [掘金](https://juejin.cn/user/2831954919569245)
 - [Twitter](https://x.com/wyr95626)
-- [Blog](http://leafw.cn)
+- [Blog](https://www.leafw.net/)
 
 ### 💡 Projects with My Work
 - [**paper-agent**](https://github.com/careywyr/paper-agent): A simple tool for paper reading.
