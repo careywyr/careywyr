@@ -13,6 +13,8 @@ Hi guys, I'm **CareyWYR**. I am a Java developer from Hangzhou, China. I'm curre
 
 ### 💡 Projects with My Work
 - [**paper-agent**](https://github.com/careywyr/paper-agent): A simple tool for paper reading.
+- [安康记](https://apps.apple.com/cn/app/%E5%AE%89%E5%BA%B7%E8%AE%B0/id6754668335): 记录你的就诊、用药、检查，为家人守护健康
+- [Creative Util](https://apps.apple.com/cn/app/creativeutil/id6756833314?mt=12): Creative Util is a powerful macOS productivity toolkit designed for creative professionals and developers. 
  
 ### 💻 Open Source Work Stats
 
