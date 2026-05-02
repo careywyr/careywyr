@@ -7,12 +7,10 @@
 Hi guys, I'm **CareyWYR**. I am a Java developer from Hangzhou, China. I'm currently working on **AI Application development**, contact me if you have same interesting or some questions!
 
 ### 📫 Contact Me on Social Media
-- [掘金](https://juejin.cn/user/2831954919569245)
 - [Twitter](https://x.com/wyr95626)
 - [Blog](https://www.leafw.net/)
 
 ### 💡 Projects with My Work
-- [**paper-agent**](https://github.com/careywyr/paper-agent): A simple tool for paper reading.
 - [安康记](https://apps.apple.com/cn/app/%E5%AE%89%E5%BA%B7%E8%AE%B0/id6754668335): 记录你的就诊、用药、检查，为家人守护健康
 - [Creative Util](https://apps.apple.com/cn/app/creativeutil/id6756833314?mt=12): Creative Util is a powerful macOS productivity toolkit designed for creative professionals and developers. 
  
